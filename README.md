@@ -1,8 +1,8 @@
 # Expense Tracker
 
-A simple command-line Expense Tracker built using Python. This project allows users to record purchased items, track expenses, and calculate total spending.
+A Python-based expense management application that helps users record purchases, monitor spending, generate expense summaries, and manage personal financial records efficiently.
 
-## 🚀 Features
+## Features
 
 - Add multiple purchased items
 - Enter prices for each item
@@ -12,7 +12,7 @@ A simple command-line Expense Tracker built using Python. This project allows us
 - Simple menu-driven interface
 - Beginner-friendly Python project
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3
 
@@ -45,7 +45,7 @@ cd Expense_Tracker
 python main.py
 ```
 
-## 📸 Sample Output
+## Sample Output
 
 ```text
 Welcome to Expense Tracker
