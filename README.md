@@ -1,6 +1,6 @@
 # Expense Tracker
 
-A Python-based expense management application that helps users record purchases, monitor spending, generate expense summaries, and manage personal financial records efficiently.
+Expense management application that helps users record purchases, monitor spending, generate expense summaries, and manage personal financial records efficiently.
 
 ## Features
 
