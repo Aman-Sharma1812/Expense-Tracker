@@ -1,4 +1,9 @@
 #-------------------------------------------------------------------------------------
+
+print("-"*30)
+print("Welcome to Expense Tracker")
+print("-"*30)
+
 expensesList = []
 print("\nWelcome to Expense Tracker\n")
 
